@@ -31,8 +31,8 @@ EOF
 }
 
 # Arguments
-VERSION="main"
-GIT_URL="https://github.com/Azure/azurehpc-health-checks"
+VERSION="0cc5b831b011b1d9c40aaa74d8aa4ddc38683c00"
+GIT_URL="https://github.com/mpwillia/azurehpc-health-checks"
 WORKING_DIR=$(realpath -m "$HOME/onetouch_nhc/working")
 OUTPUT_DIR=$WORKING_DIR
 JOB_NAME="$(hostname)-$(date --utc +"%Y-%m-%d_%H-%M-%S")"
