@@ -31,7 +31,7 @@ EOF
 }
 
 # Arguments
-VERSION="328e577772eb3805f5adc629d6a18a7487233e7f"
+VERSION="7fa1ab497f695eb8874ccd81077f057f6320e8f8"
 GIT_URL="https://github.com/mpwillia/azurehpc-health-checks"
 WORKING_DIR=$(realpath -m "$HOME/onetouch_nhc/working")
 OUTPUT_DIR=$WORKING_DIR
